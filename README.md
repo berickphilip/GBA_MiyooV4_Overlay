@@ -31,8 +31,11 @@ A pack of pixel-perfect GBA overlays that 100% match the Miyoo Mini V4's screen,
 GB_MiyooV4_pixelperfect.7z:
 ---------------------------
 This is a single overlay for playing Gameboy / Gameboy Color games on Miyoo Mini V4's screen.
+
 The Miyoo Mini V4's screen does not really support good integer scaling of GB / GBA games, but this overlay is made in such a way as to mask out the imnperfections (hide them behind the dark borders) while leaving the actual intended pixels visible.
+
 So it is possibly the closest that the Miyoo V4's screen can get to "pixel perfect gb / gbc".
+
 Similar setup and usage instructions to the pack above.
 
 Enjoy!
